@@ -1,4 +1,4 @@
-Maestria
+Maestria en Ingenieria CUC
 ========
 
-Cosas para mi paestria
+Cosas para mi Maestria
